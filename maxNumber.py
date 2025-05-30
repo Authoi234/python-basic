@@ -1,6 +1,6 @@
 n1 = int(input("Please enter a number: "))
 n2 = int(input("Please enter another number: "))
-n3 = int(input("Please enter last number: "))
+n3 = int(input("Please enter the last number: "))
 
 if n1 > n2:
     max_n = n1
